@@ -162,20 +162,6 @@ HIL  ·  vTestStudio  ·  CAPL  ·  CANoe  ·  IBM DOORS
 
 <br/>
 
-## Contribution graph, eaten by a snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitvashu/amitvashu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitvashu/amitvashu/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/amitvashu/amitvashu/output/github-snake.svg" width="98%" />
-</picture>
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
